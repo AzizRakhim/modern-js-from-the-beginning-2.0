@@ -17,7 +17,7 @@ x = arr.includes(14);
 // 0 'cause reverse method is worked before this
 x = arr.indexOf(23);
 
-// not presend values return -1
+// not present values return -1
 x = arr.indexOf(2323);
 
 // 54, 14, 68, 23 from index 1 till the end
