@@ -7,7 +7,7 @@ const global = {
 // console.log(global.currentPage);
 
 // Highlight active link
-function highlightActiveLink(index) {
+function highlightActiveLink() {
   // My version
   // const navLinks = document.querySelectorAll(".nav-link");
 
