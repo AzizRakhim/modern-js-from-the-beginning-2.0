@@ -1,4 +1,4 @@
-const fizzBuzz = require("./fizzbuzz");
+const fizzBuzz = require("./fizzbizz");
 
 describe("fizzbuzz", () => {
   it("should be a function", () => {
