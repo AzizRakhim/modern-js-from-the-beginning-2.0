@@ -1,0 +1,15 @@
+{
+  "name": "randomideas",
+  "version": "1.0.0",
+  "description": "Idea sharing app",
+  "license": "MIT",
+  "author": "Aziz Rakhim",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
